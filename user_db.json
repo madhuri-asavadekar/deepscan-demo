@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Andy",
+      "email": "andy@gmail.com",
+      "password": "",
+      "profile_picture": "http://secs.sg/wp-content/uploads/2015/04/no_photo.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Nick",
+      "email": "nick@gmail.com",
+      "password": "",
+      "profile_picture": "http://secs.sg/wp-content/uploads/2015/04/no_photo.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Nagel",
+      "email": "nagel@gmail.com",
+      "password": "",
+      "profile_picture": "http://secs.sg/wp-content/uploads/2015/04/no_photo.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ray",
+      "email": "ray@gmail.com",
+      "password": "",
+      "profile_picture": "http://secs.sg/wp-content/uploads/2015/04/no_photo.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Smith",
+      "email": "smith@gmail.com",
+      "password": "",
+      "profile_picture": "http://secs.sg/wp-content/uploads/2015/04/no_photo.jpg"
+    }
+  ]
+}
